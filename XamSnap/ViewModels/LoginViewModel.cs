@@ -6,7 +6,7 @@ namespace XamSnap.ViewModels
 {
 	public class LoginViewModel : BaseViewModel
 	{
-        readonly INotificationService notificationService = ServiceContainer.Resolve<INotificationService>();
+        //readonly INotificationService notificationService = ServiceContainer.Resolve<INotificationService>();
         public string Username { get; set; }
         public string Password { get; set; }
 
@@ -23,7 +23,7 @@ namespace XamSnap.ViewModels
 			{
 				settings.User = await service.Login(Username, Password);
 				settings.Save();
-                notificationService.Start(Username);
+                //notificationService.Start(Username);
             }
 			finally
 			{

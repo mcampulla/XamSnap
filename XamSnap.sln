@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.3
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.Android", "XamSnap\XamSnap.Android\XamSnap.Android.csproj", "{4C4DDDB8-3734-4BF4-9070-0EC260ED7E59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.Android", "XamSnap.Android\XamSnap.Android.csproj", "{4C4DDDB8-3734-4BF4-9070-0EC260ED7E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.iOS", "XamSnap\XamSnap.iOS\XamSnap.iOS.csproj", "{2CC0C7EE-35A0-4067-894D-30634B73B2F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.iOS", "XamSnap.iOS\XamSnap.iOS.csproj", "{2CC0C7EE-35A0-4067-894D-30634B73B2F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.UWP", "XamSnap\XamSnap.UWP\XamSnap.UWP.csproj", "{57186ECD-675C-46C9-9AA1-41C951C915C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.UWP", "XamSnap.UWP\XamSnap.UWP.csproj", "{57186ECD-675C-46C9-9AA1-41C951C915C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap", "XamSnap\XamSnap\XamSnap.csproj", "{490C7D92-06A8-4280-A8CD-D874592830D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap", "XamSnap\XamSnap.csproj", "{490C7D92-06A8-4280-A8CD-D874592830D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSnap.Tests", "XamSnap.Tests\XamSnap.Tests.csproj", "{E08A1BEF-EF48-41D2-87CE-2733AC76D2A9}"
 EndProject

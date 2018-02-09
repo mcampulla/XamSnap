@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamSnap\XamSnap\XamSnap.csproj">
+    <ProjectReference Include="..\XamSnap\XamSnap.csproj">
       <Project>{490c7d92-06a8-4280-a8cd-d874592830d1}</Project>
       <Name>XamSnap</Name>
     </ProjectReference>
